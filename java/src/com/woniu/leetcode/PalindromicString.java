@@ -21,10 +21,12 @@ package leetcode;
 	以此以所在的字符为中心向两侧遍历查找，这样就能找到最长的回文字符串。这里需要注意的是奇偶之分。
 	如：beed和bab这两种是不通的。
 	
+	链接：https://leetcode-cn.com/problems/longest-palindromic-substring/description/
+	
  * @author woniu
  *
  */
-class PalindromicString {
+class LongestPalindromicSubstring {
 
 	private int startIndex, maxLen;
 	public String longestPalindrome(String s) {
