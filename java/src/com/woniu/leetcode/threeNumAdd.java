@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 /**
+ * 题目描述：
+ * 
  * 给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
  * 注意：答案中不可以包含重复的三元组。
  * 例如, 给定数组 nums = [-1, 0, 1, 2, -1, -4]，
@@ -13,6 +15,13 @@ import java.util.List;
  *	 [-1, 0, 1],
  *	 [-1, -1, 2]
  * ]
+ * 
+ * 链接: https://leetcode-cn.com/problems/3sum/description/
+ * 
+ * 解决思路：
+ * 1、通常的解决办法是通过三层循环来解决此问题，这个方法确实能解决，但是执行效率不高。
+ * 2、其后，想到了使用两层循环进行a和b的查找，c通过二分查找的方式来确定，虽然有了明显的效率提升，但是，仍然会超时
+ * 3、为当下的解决思路，先派逊，然后通过一层循环确定a的值，然后之后通过从最大和最小值的方式来确定b和c的值，效率得到了进一步的提升。
  * @author woniu
  *
  */
@@ -21,10 +30,7 @@ class ThreeNumAdd {
       
 		List<List<Integer>> resultList = new ArrayList<List<Integer>>();
         /**
-         * 解决思路：
-         * 1、通常的解决办法是通过三层循环来解决此问题，这个方法确实能解决，但是执行效率不高。
-         * 2、其后，想到了使用两层循环进行a和b的查找，c通过二分查找的方式来确定，虽然有了明显的效率提升，但是，仍然会超时
-         * 3、为当下的解决思路，先派逊，然后通过一层循环确定a的值，然后之后通过从最大和最小值的方式来确定b和c的值，效率得到了进一步的提升。
+        
          */
     	Arrays.sort(nums);
     	int i = 0 , last = nums.length-1;
