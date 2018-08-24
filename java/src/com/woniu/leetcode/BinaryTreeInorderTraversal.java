@@ -3,23 +3,23 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  * 
-       问题描述：
-       给定一个二叉树，返回它的中序 遍历。
+   问题描述：
+   给定一个二叉树，返回它的中序 遍历。
 
-        示例:
-        输入: [1,null,2,3]
-           1
-            \
-             2
-            /
-           3
-        
-        输出: [1,3,2]
-        
-       解决思路：
-        通过迭代，依次遍历左右子节点即可解决
-   
-       链接：https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/
+    示例:
+    输入: [1,null,2,3]
+       1
+        \
+         2
+        /
+       3
+
+    输出: [1,3,2]
+
+   解决思路：
+    通过迭代，依次遍历左右子节点即可解决
+
+   链接：https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/
  * @author woniu
  *
  */
