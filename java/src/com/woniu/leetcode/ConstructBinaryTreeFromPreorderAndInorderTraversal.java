@@ -9,34 +9,11 @@ public class ConstructBinaryTreeFromPreorderAndInorderTraversal {
 //    		return null;
 //    	}
     	
-//    	TreeNode root = method1(preorder, inorder);
-    	TreeNode root = method2(preorder, 0, preorder.length, inorder, 0, inorder.length);
+   	TreeNode root = method1(preorder, inorder);
     	
         return root;
     }
 
-    private TreeNode method2(int[] preorder, int pStart, int pEnd, int[] inorder, int iStart, int iEnd) {
-    	if(preorder == null || (pEnd - pStart) == 0) {
-    		return null;
-    	}
-    	
-    	int rVal = preorder[pStart];
-    	TreeNode root = new TreeNode(rVal);
-    	int rootIndex = iStart;
-    	for(rootIndex=iStart; rootIndex<iEnd; rootIndex++) {
-    		if(inorder[rootIndex] == rVal) {
-    			break;
-    		}
-    	}
-    	if(rootIndex-iStart > 0) {
-    		root.left = method2(preorder, pStart+1, rootIndex+1, inorder, iStart, rootIndex);
-    	}
-    	if(iEnd-(rootIndex+1) > 0) {
-    	  	root.right = method2(preorder, rootIndex+1, pEnd, inorder, rootIndex+1, iEnd);
-    	}
-		return root;
-	}
-    
     /**
      * 解题思路：前序遍历第一个值，必为跟节点，之后通过其与中序遍历，来切分成两个新的数组，继续递归查找。
      * 存在的问题为：每次需要复制数组，造成资源的浪费。
