@@ -15,3 +15,4 @@
 ##### - [寻找峰值](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/FindPeakElement.java "寻找峰值")
 ##### - [跳跃游戏](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/JumpGame.java "跳跃游戏")
 ##### - [动态规划-不同路径](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/UniquePaths.java "动态规划-不同路径")
+##### - [动态规划-零钱兑换](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/CoinChange.java "动态规划-零钱兑换")
