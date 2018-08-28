@@ -18,3 +18,4 @@
 ##### - [动态规划-零钱兑换](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/CoinChange.java "动态规划-零钱兑换")
 ##### - [动态规划-最长上升子序列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/LongestIncreasingSubsequence.java "动态规划-最长上升子序列")
 ##### - [数学-快乐数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/HappyNumber.java "数学-快乐数")
+##### - [数学-阶乘后的零](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/FactorialTrailingZeroes.java "数学-阶乘后的零")
