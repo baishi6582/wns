@@ -76,7 +76,7 @@ public class Pow {
 		double tmp = x;
 		double res = 1;
 		for (int i = 0; i < 32; i++) {
-			if ((n & 1) == 1)
+			if ((n & 1) == 1) //奇数处理，需要多乘一个tmp
 				res *= tmp;
 			n = n >> 1;
 			tmp = tmp * tmp;
@@ -84,39 +84,30 @@ public class Pow {
 		return reverse ? 1.0 / res : res;
 	}
 
+	//这种二分的思想其实还是比较常见的，注入后边的除数与被除数的问题，二分在缩短计算时常还是很有效的，毕竟位移这种方式，还是难以想到。
 	public double myPow2(double x, int n) {
-		if (n == 0 || x == 1)
-			return 1;
-		else if (n == 1)
-			return x;
-
-		boolean flag = true;
-		if (n < 0) {
-			n = -n;
-			flag = false;
-		}
 		double result = pow(x, n);
 
-		if (flag)
-			return result;
-		else
+		if (n < 0)
 			return 1 / result;
+		else
+			return result;
 	}
 
 	public double pow(double x, int n) {
-		if (n == 1)
-			return x;
-		else if (n == 0)
+		if (n == 0) {
 			return 1;
-
-		double res = pow(x, n / 2);
-
-		if (n % 2 == 0) {
-			return res * res;
-		} else {
-			return res * res * x;
 		}
-
+		
+		//减少相乘的次数，求n次方，等于两个n/2的结果相乘
+		if((n & 1) == 1) {
+			double res = pow(x, n / 2);
+			return res * res * x;
+		}else {
+			double res = pow(x, n / 2);
+			return res * res;
+		}
+		
 	}
 
 	public static void main(String[] args) {
