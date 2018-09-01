@@ -23,3 +23,4 @@
 ##### [- 数学-Pow(x, n)](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/Pow.java "- 数学-Pow(x, n)")
 ##### - [数学-两数相除](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/DivideTwoIntegers.java "数学-两数相除")
 ##### - [数学-分数到小数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/FractionToRecurringDecimal.java "数学-分数到小数")
+##### - [数学-X的平方根](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/Sqrt.java "数学-X的平方根")
