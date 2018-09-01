@@ -24,3 +24,4 @@
 ##### - [数学-两数相除](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/DivideTwoIntegers.java "数学-两数相除")
 ##### - [数学-分数到小数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/FractionToRecurringDecimal.java "数学-分数到小数")
 ##### - [数学-X的平方根](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/Sqrt.java "数学-X的平方根")
+##### - [数学-两整数之和](https://github.com/baishi6582/wns/commit/f789a11ec2179965ad55fd8992801b25329f147e "数学-两整数之和")
