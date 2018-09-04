@@ -29,3 +29,4 @@
 ##### - [逆波兰表达式求值](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/EvaluateReversePolishNotation.java "逆波兰表达式求值")
 ##### - [递归-电话号码的字母组合](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/LetterCombinations_of_a_PhoneNumber.java "递归-电话号码的字母组合")
 ##### - [回溯-全排列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/Permutations.java "回溯-全排列")
+##### - [回溯-括号生成](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/GenerateParentheses.java "回溯-括号生成")
