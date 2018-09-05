@@ -31,3 +31,4 @@
 ##### - [回溯-全排列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/Permutations.java "回溯-全排列")
 ##### - [回溯-括号生成](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/GenerateParentheses.java "回溯-括号生成")
 ##### - [回溯-单词搜索](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/WordSearch.java "回溯-单词搜索")
+##### - [回溯-子集](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180905/Subsets.java "回溯-子集")
