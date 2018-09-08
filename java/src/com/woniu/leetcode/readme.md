@@ -39,3 +39,6 @@
 ##### 37. [反转整数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180907/ReverseInteger.java "反转整数")
 ##### 38. [字符串转整数 (atoi)](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180907/String2Integer.java "字符串转整数 (atoi)")
 ##### 39. [回文数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180907/PalindromeNumber.java "回文数")
+##### 40. [盛最多水的容器](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180908/ContainerWithMostWater.java "盛最多水的容器")
+##### 41. [最长有效括号](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180908/LongestValidParentheses.java "最长有效括号")
+##### 42. [有效的括号](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180908/ValidParentheses.java "有效的括号")
