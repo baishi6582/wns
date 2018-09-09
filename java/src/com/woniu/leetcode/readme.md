@@ -46,3 +46,6 @@
 ##### 44. [有效的括号字符串](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/ValidParenthesisString.java "有效的括号字符串")
 ##### 45. [根据二叉树创建字符串](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/ConstructStringFfromBinaryTree.java "根据二叉树创建字符串")
 ##### 46. [动态规划-最大子序和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/MaximumSubarray.java "动态规划-最大子序和")
+##### 47. [动态规划-编辑距离](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/EditDistance.java "动态规划-编辑距离")
+##### 48. [动态规划-最小路径和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/MinimumPathSum.java "动态规划-最小路径和")
+##### 49. [动态规划-不同路径 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/UniquePaths2.java "动态规划-不同路径 II")
