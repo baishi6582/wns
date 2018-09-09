@@ -42,3 +42,7 @@
 ##### 40. [盛最多水的容器](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180908/ContainerWithMostWater.java "盛最多水的容器")
 ##### 41. [最长有效括号](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180908/LongestValidParentheses.java "最长有效括号")
 ##### 42. [有效的括号](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180908/ValidParentheses.java "有效的括号")
+##### 43. [括号的分数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/ScoreOfParentheses.java "括号的分数")
+##### 44. [有效的括号字符串](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/ValidParenthesisString.java "有效的括号字符串")
+##### 45. [根据二叉树创建字符串](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/ConstructStringFfromBinaryTree.java "根据二叉树创建字符串")
+##### 46. [动态规划-最大子序和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/MaximumSubarray.java "动态规划-最大子序和")
