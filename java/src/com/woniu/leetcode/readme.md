@@ -49,3 +49,5 @@
 ##### 47. [动态规划-编辑距离](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/EditDistance.java "动态规划-编辑距离")
 ##### 48. [动态规划-最小路径和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/MinimumPathSum.java "动态规划-最小路径和")
 ##### 49. [动态规划-不同路径 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180909/UniquePaths2.java "动态规划-不同路径 II")
+##### 50. [动态规划-不同的二叉搜索树 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180910/UniqueBinarySearchTrees2.java "动态规划-不同的二叉搜索树 II")
+##### 51. [动态规划-不同的二叉搜索树](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180910/UniqueBinarySearchTrees.java "动态规划-不同的二叉搜索树")
