@@ -54,3 +54,5 @@
 ##### 52. [数学-连续整数求和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180911/ConsecutiveNumbersSum.java "数学-连续整数求和")
 ##### 53. [数学-回文素数](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180912/PrimePalindrome.java "数学-回文素数")
 ##### 54. [排序-下一个排列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180912/NextPermutation.java "排序-下一个排列")
+##### 55. [数学-等差数列划分](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180913/ArithmeticSlices.java "数学-等差数列划分")
+##### 56. [数学-到达终点数字](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180913/ReachANumber.java "数学-到达终点数字")
