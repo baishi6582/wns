@@ -64,3 +64,4 @@ public class DivideTwoIntegers {
 		System.out.println(new DivideTwoIntegers().divide(1, 1));
 	}
 }
+ 
