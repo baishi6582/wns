@@ -56,3 +56,7 @@
 ##### 54. [排序-下一个排列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180912/NextPermutation.java "排序-下一个排列")
 ##### 55. [数学-等差数列划分](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180913/ArithmeticSlices.java "数学-等差数列划分")
 ##### 56. [数学-到达终点数字](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180913/ReachANumber.java "数学-到达终点数字")
+##### 57. [数学-字符串相乘](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180914/MultiplyStrings.java "数学-字符串相乘")
+##### 58. [数学-第k个排列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180915/PermutationSequence.java "数学-第k个排列")
+##### 59. [数学-2的幂](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180915/PowerOfTwo.java "数学-2的幂")
+##### 60. [数学-丑数 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180915/UglyNumberII.java "数学-丑数 II")
