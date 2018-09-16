@@ -60,3 +60,7 @@
 ##### 58. [数学-第k个排列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180915/PermutationSequence.java "数学-第k个排列")
 ##### 59. [数学-2的幂](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180915/PowerOfTwo.java "数学-2的幂")
 ##### 60. [数学-丑数 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180915/UglyNumberII.java "数学-丑数 II")
+##### 61.[ 数学-最接近的三数之和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180916/_3SumClosest " 数学-最接近的三数之和")
+##### 62. [数学-四数之和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180916/_4Sum.java "数学-四数之和")
+##### 63. [数学-四数相加 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180916/_4SumII.java "数学-四数相加 II")
+##### 64. [链表-删除链表的倒数第N个节点](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180916/RemoveNthNodeFromEndOfList.java "链表-删除链表的倒数第N个节点")
