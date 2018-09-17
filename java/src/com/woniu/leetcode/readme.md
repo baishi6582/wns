@@ -65,3 +65,5 @@
 ##### 63. [数学-四数相加 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180916/_4SumII.java "数学-四数相加 II")
 ##### 64. [链表-删除链表的倒数第N个节点](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180916/RemoveNthNodeFromEndOfList.java "链表-删除链表的倒数第N个节点")
 ##### 65. [二叉树-二叉树的最近公共祖先](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180917/LowestCommonAncestorOfBinaryTree.java "二叉树-二叉树的最近公共祖先")
+##### 66. [链表-链表随机节点](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180917/LinkedListRandomNode.java "链表-链表随机节点")
+##### 67. [最长公共前缀](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180917/LongestCommonPrefix.java "最长公共前缀")
