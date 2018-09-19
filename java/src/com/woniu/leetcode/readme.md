@@ -67,3 +67,5 @@
 ##### 65. [二叉树-二叉树的最近公共祖先](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180917/LowestCommonAncestorOfBinaryTree.java "二叉树-二叉树的最近公共祖先")
 ##### 66. [链表-链表随机节点](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180917/LinkedListRandomNode.java "链表-链表随机节点")
 ##### 67. [最长公共前缀](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180917/LongestCommonPrefix.java "最长公共前缀")
+##### 68. [数组-组合总和](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180919/CombinationSum.java "数组-组合总和")
+##### 69. [数组-在排序数组中查找元素的第一个和最后一个位置](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180919/FindFirstAndLastPositionOfElementInSortedArray.java "数组-在排序数组中查找元素的第一个和最后一个位置")
