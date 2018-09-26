@@ -93,3 +93,4 @@
 ##### 91. [重复的DNA序列](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180924/RepeatedDNASequences.java "重复的DNA序列")
 ##### 92. [前K个高频单词](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180924/TopKFrequentWords.java "前K个高频单词")
 ##### 93. [树-二叉树中所有距离为 K 的结点](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180925/AllNodesDistanceKInBinaryTree.java "树-二叉树中所有距离为 K 的结点")
+##### 94. [二叉树-具有所有最深结点的最小子树](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180926/SmallestSubtreeWithAllTheDeepestNodes.java "二叉树-具有所有最深结点的最小子树")
