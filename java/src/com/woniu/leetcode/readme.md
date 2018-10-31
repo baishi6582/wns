@@ -95,3 +95,4 @@
 ##### 93. [树-二叉树中所有距离为 K 的结点](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180925/AllNodesDistanceKInBinaryTree.java "树-二叉树中所有距离为 K 的结点")
 ##### 94. [二叉树-具有所有最深结点的最小子树](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180926/SmallestSubtreeWithAllTheDeepestNodes.java "二叉树-具有所有最深结点的最小子树")
 ##### 95. [二叉树-二叉树的最大深度](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20180926/SmallestSubtreeWithAllTheDeepestNodes.java "二叉树-二叉树的最大深度")
+##### 96. [最长递增路径](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20181031/LongestIncreasingPathInMatrix.java "最长递增路径")
