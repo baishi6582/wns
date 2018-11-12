@@ -99,4 +99,4 @@
 ##### 97. [全排列 II](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20181105/PermutationsII.java "全排列 II")
 ##### 98. [哈希表-有效的数独](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20181107/ValidSudoku.java "哈希表-有效的数独")
 ##### 99. [前K个高频元素](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20181108/Top_K_FrequentElements.java "前K个高频元素")
-#####100. [二叉搜索树结点最小距离](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20181112/MinimumDistanceBetween_bst_nodes.java "二叉搜索树结点最小距离")
+##### 100. [二叉搜索树结点最小距离](https://github.com/baishi6582/wns/blob/master/java/src/com/woniu/leetcode/20181112/MinimumDistanceBetween_bst_nodes.java "二叉搜索树结点最小距离")
